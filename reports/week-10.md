@@ -10,7 +10,7 @@ Work done retroactively: project topic selected, difficulty level chosen, and `r
 
 729d4a — docs: project proposal (week 10 deliverable, submitted late)
 
-No commits exist with dates inside 2–8 November. Commit dates were not altered, and the delay is reported as it occurred.
+No commits of my own fall inside 2–8 November. The only commit in that window is b537533, the upstream starter commit inherited through the fork, which is not my work. Commit dates were not altered, and the delay is reported as it occurred.
 
 ## Current Functionality
 
