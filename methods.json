@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "note": "Curated list of Russian-language speech therapy assessment methods used in Kazakhstani practice. Age ranges are approximate, taken from the authors' descriptions, and are to be checked against the printed editions.",
+  "methods": [
+    {
+      "id": "filicheva_chirkina_onr",
+      "title": "Обследование детей с общим недоразвитием речи",
+      "authors": "Т.Б. Филичева, Г.В. Чиркина",
+      "age_min_months": 48,
+      "age_max_months": 84,
+      "areas": ["articulation", "phonemic", "syllable_structure", "vocabulary", "grammar", "coherent_speech"],
+      "checks": "Комплексное обследование всех сторон речи при подозрении на ОНР: звукопроизношение, фонематическое восприятие, слоговая структура, словарь, грамматический строй, связная речь."
+    },
+    {
+      "id": "nishcheva_speech_card",
+      "title": "Речевая карта ребёнка с общим недоразвитием речи (от 4 до 7 лет)",
+      "authors": "Н.В. Нищева",
+      "age_min_months": 48,
+      "age_max_months": 84,
+      "areas": ["articulation", "phonemic", "syllable_structure", "vocabulary", "grammar", "coherent_speech"],
+      "checks": "Готовая речевая карта с наглядным материалом для фиксации результатов обследования ребёнка с ОНР."
+    },
+    {
+      "id": "inshakova_album",
+      "title": "Альбом для логопеда",
+      "authors": "О.Б. Иншакова",
+      "age_min_months": 60,
+      "age_max_months": 96,
+      "areas": ["articulation", "phonemic", "syllable_structure"],
+      "checks": "Картинный материал для обследования звукопроизношения: изолированно, в слогах, словах и фразах; дифференциация звуков."
+    },
+    {
+      "id": "smirnova_album_articulation",
+      "title": "Логопедический альбом для обследования звукопроизношения",
+      "authors": "И.А. Смирнова",
+      "age_min_months": 36,
+      "age_max_months": 96,
+      "areas": ["articulation"],
+      "checks": "Обследование произношения отдельных групп звуков (свистящие, шипящие, сонорные и др.) по картинкам."
+    },
+    {
+      "id": "fotekova_test",
+      "title": "Тестовая методика диагностики устной речи младших школьников",
+      "authors": "Т.А. Фотекова",
+      "age_min_months": 72,
+      "age_max_months": 120,
+      "areas": ["articulation", "phonemic", "syllable_structure", "vocabulary", "grammar", "coherent_speech"],
+      "checks": "Балльная оценка устной речи по сериям заданий; даёт количественный речевой профиль ребёнка."
+    },
+    {
+      "id": "volkova_psych_logo",
+      "title": "Методика психолого-логопедического обследования детей с нарушениями речи",
+      "authors": "Г.В. Волкова",
+      "age_min_months": 36,
+      "age_max_months": 84,
+      "areas": ["articulation", "phonemic", "vocabulary", "grammar", "coherent_speech"],
+      "checks": "Обследование речи в связи с неречевыми психическими функциями; вопросы дифференциальной диагностики речевых нарушений."
+    },
+    {
+      "id": "strebeleva_diagnostics",
+      "title": "Психолого-педагогическая диагностика развития детей раннего и дошкольного возраста",
+      "authors": "Е.А. Стребелева (ред.)",
+      "age_min_months": 24,
+      "age_max_months": 84,
+      "areas": ["vocabulary", "coherent_speech"],
+      "checks": "Оценка общего психического развития, понимания речи и экспрессивной речи у детей раннего и дошкольного возраста."
+    },
+    {
+      "id": "trubnikova_speech_card",
+      "title": "Структура и содержание речевой карты",
+      "authors": "Н.М. Трубникова",
+      "age_min_months": 48,
+      "age_max_months": 96,
+      "areas": ["articulation", "phonemic", "syllable_structure", "vocabulary", "grammar", "coherent_speech"],
+      "checks": "Схема речевой карты: анамнез, строение и подвижность артикуляционного аппарата, все компоненты речевой системы."
+    },
+    {
+      "id": "gribova_technology",
+      "title": "Технология организации логопедического обследования",
+      "authors": "О.Е. Грибова",
+      "age_min_months": 48,
+      "age_max_months": 96,
+      "areas": ["articulation", "phonemic", "vocabulary", "grammar", "coherent_speech"],
+      "checks": "Порядок и содержание логопедического обследования, оформление речевой карты и логопедического заключения."
+    },
+    {
+      "id": "agranovich_syllable",
+      "title": "Логопедическая работа по преодолению нарушений слоговой структуры слов у детей",
+      "authors": "З.Е. Агранович",
+      "age_min_months": 48,
+      "age_max_months": 84,
+      "areas": ["syllable_structure"],
+      "checks": "Обследование воспроизведения слоговой структуры слов разной сложности."
+    },
+    {
+      "id": "sadovnikova_writing",
+      "title": "Нарушения письменной речи и их преодоление у младших школьников",
+      "authors": "И.Н. Садовникова",
+      "age_min_months": 84,
+      "age_max_months": 120,
+      "areas": ["literacy"],
+      "checks": "Выявление дисграфии и дислексии: анализ письменных работ, чтение, языковой анализ и синтез."
+    }
+  ]
+}
